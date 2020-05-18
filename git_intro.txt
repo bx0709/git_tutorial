@@ -1,0 +1,27 @@
+If you're working for the same company, for instance, and you're sharing some file that you're working on together.
+And what Git makes it easy to do is to give both you and your partner the same version of that file, 
+such that you can both independently be making modifications to that file, change different parts of that file,
+and then eventually synchronize them back up together in some sort of central server, such
+that you can both then get that updated version of the file, where the idea is you can both be independently making changes to the code,
+synchronize them somewhere so that you both have access to the latest version.
+'''
+
+'''
+
+Another thing that Git is good for is it's good at testing changes to your code without losing
+the original copy of the code. So you might have something that's working,
+and you might want to add a new feature to your website, for instance.
+So you might want to tackle the next part of the problem set.
+But doing so might involve breaking the stuff you've already made and you want to save that.
+But say, try something else for a little bit while keeping the original.
+And only when we've tried it and it works and we're feeling comfortable
+ with it can we then merge it back in with the original code, such that we now have the original version of whatever it 
+is that we were working with.
+
+'''
+
+'''
+And finally, Git is very good at reverting back to old versions of code.
+You've made some changes and you decide the feature you have is not a feature that you want, or you decide that what you've done
+has a mistake in it, a bug, you want to go back to a previous version. It's very easy to just say, you know what?
+Go back in the revision history. Go back to a previous version of that file.
